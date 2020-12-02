@@ -1,0 +1,5 @@
+[user]
+	name = Ju-Hang Sin
+	email = ju@badgateway.net
+[core]
+	editor = code --wait
